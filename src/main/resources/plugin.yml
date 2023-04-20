@@ -1,0 +1,10 @@
+name: RemielRegion
+version: '${project.version}'
+main: remielregion.remielregion.Main
+api-version: 1.18
+authors: [ ByAtlanta ]
+description: RemielRegion
+commands:
+  regionitem:
+  setregion:
+    description: Bölge ayarlamakta kullanılır
